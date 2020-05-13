@@ -11,7 +11,7 @@ class Webview extends Component {
 
     render () {
         return (
-            <iframe title="asd" src={this.state.url}></iframe>
+            <iframe title={this.state.url} src={this.state.url}></iframe>
         );
     }
 }
