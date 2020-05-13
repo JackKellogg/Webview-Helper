@@ -1,8 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Webview Helper
+
+## Dependencies
+
+- npm 6.13.4+
+- node 12.16.3+
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+This is ensure that you have all of the required modules downloaded through npm.
 
 ### `npm start`
 
